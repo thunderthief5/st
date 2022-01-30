@@ -10,6 +10,7 @@ This is in the order that I patched everything:
 - [scrollback](https://st.suckless.org/patches/scrollback/)
 - [scrollback-mouse](https://st.suckless.org/patches/scrollback/)
 - [ligatures-scrollback](https://st.suckless.org/patches/ligatures/)
+- [delkey](https://st.suckless.org/patches/delkey/)
 
 ## Requirements
 
